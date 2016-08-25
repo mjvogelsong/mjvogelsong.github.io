@@ -22,7 +22,7 @@ I highly recommend following these people's work:
 And these organization blogs:
 
 * [Indico](https://indico.io/blog/)
-* [Nervana](now with Intel, https://www.nervanasys.com/blog/)
+* [Nervana](https://www.nervanasys.com/blog/)
 * [Google Quantum AI](http://research.google.com/pubs/QuantumAI.html)
 
 Obviously, it's important to look through the major players in the field (Hinton, Lecun, Schmidhuber, Sutton, etc.), but hopefully these links give some additional insight :).
