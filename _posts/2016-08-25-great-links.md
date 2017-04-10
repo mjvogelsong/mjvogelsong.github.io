@@ -18,6 +18,7 @@ I highly recommend following these people's work:
 * [Scott Aaronson](http://www.scottaaronson.com/blog/)
 * [Richard Feynman](http://www.feynman.com/)
 * [Scott Gray](https://twitter.com/scottgray76)
+* [Michael Nielsen](http://michaelnielsen.org/)
 
 And these organization blogs:
 
