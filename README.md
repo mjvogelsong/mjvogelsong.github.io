@@ -1,2 +1,3 @@
-# mvogelsong1.github.io
-Mike's webpage and blog
+# mjvogelsong.github.io
+
+Michael's webpage and blog.
